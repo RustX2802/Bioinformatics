@@ -1,7 +1,7 @@
 # Bioinformatics
 
 1. With the swissprot_sample.fas file
-[this Python program](./Bioinformatics/Protein_Extraction.py) extracts the proteins containing the input patterns in
+[this Python program](./Protein_Extraction.py) extracts the proteins containing the input patterns in
 the prosite_sample.dat file. For each pattern the program
 prints out up to 5 proteins from the swissprot_sample.fas. Outputs are dumped in a .csv file.
 
