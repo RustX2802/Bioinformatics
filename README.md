@@ -5,7 +5,7 @@
 the prosite_sample.dat file. For each pattern the program
 prints out up to 5 proteins from the swissprot_sample.fas. Outputs are dumped in a .csv file.
 
-2. [this Python program](./Proteins2Nucleotides.py) reads the sample.faa file and converts the amino
+2. [This Python program](./Proteins2Nucleotides.py) reads the sample.faa file and converts the amino
 acid symbols into nucleotide symbols, I. e, Val to GTG. Results are dumped in a .csv file.
 
 # Sample entry in swisprot.fas:
